@@ -44,7 +44,7 @@ A simple online shopping platform created as an academic project.
 
 💼 LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/gedionmar-monton-1a034a40a/)
 
-🐙 GitHub: github.com/gedionmarmonton-star
+🐙 GitHub: [github.com/gedionmarmonton-star](https://github.com/gedionmarmonton-star/gedionmarmonton-star)
 
 📱 Facebook: https://www.facebook.com/jerrykharel.buar 
 
